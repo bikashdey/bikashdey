@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bikashdey
-- 👀 I’m interested in Python, flask, django, express js,momgodb,MySQL.
+- 👀 I’m interested in Python, flask, django, express js,mongodb,MySQL,wordpress.
 - 🌱 I’m currently learning reactjs (MERN stack developer)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- Email-bikashdey200@gmail.com, contact- 9146206195.
